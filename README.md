@@ -4,9 +4,9 @@ My name is Sam and im a Unity developer
 
 Published Projects:
 
-https://store.steampowered.com/app/3773930/Paint_On_Paint_TD/
-https://nuckname.itch.io/beary-scary-museum-heist
-https://nuckname.itch.io/gas-man
+https://store.steampowered.com/app/3773930/Paint_On_Paint_TD/ \
+https://nuckname.itch.io/beary-scary-museum-heist \
+https://nuckname.itch.io/gas-man \
 <!--
 **nuckname/nuckname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
