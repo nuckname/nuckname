@@ -1,4 +1,3 @@
-<img width="1536" height="854" alt="Screenshot 2026-10-29 103829" src="https://github.com/user-attachments/assets/ada7339d-8d87-4da6-8eb0-3f64eea4dbe7" />
 ## Hi there 👋
 
 My name is Sam and im a Unity developer based in Melbourne, Australia
