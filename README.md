@@ -2,9 +2,10 @@
 
 My name is Sam and im a Unity developer based in Melbourne, Australia
 
-Technical Expertise: Object-Oriented Design, Steamworks SDK, UI/UX Integration, Unity Editor Tool Development
+<b>Technical Expertise: </b> Object-Oriented Design, Steamworks SDK, UI/UX Integration, Unity Editor Tool Development
 
 Published Projects: \
+\
 Click the Images!
 
 <table>
