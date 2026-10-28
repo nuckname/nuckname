@@ -1,3 +1,4 @@
+<img width="1536" height="854" alt="Screenshot 2026-10-29 103829" src="https://github.com/user-attachments/assets/ada7339d-8d87-4da6-8eb0-3f64eea4dbe7" />
 ## Hi there 👋
 
 My name is Sam and im a Unity developer based in Melbourne, Australia
@@ -19,7 +20,7 @@ Click the Images!
     <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
       <b>Bowlder Dash</b><br/><br/>
       <a href="https://nuckname.itch.io/gas-man" target="_blank">
-        <img width="320" height="188" alt="Bowlder Dash Screenshot 2" src="https://github.com/user-attachments/assets/31de03de-7d90-43b2-b0fb-b85a6470e739" style="height: 188px; object-fit: cover; border-radius: 6px;" />
+        <img width="320" height="188" alt="Bowlder Dash Screenshot 2" src="https://github.com/user-attachments/assets/bde467a2-1397-4bb8-92e9-4a06908a3312" style="height: 188px; object-fit: cover; border-radius: 6px;" />
       </a><br/><br/>
       <em>A balatro inspired backrooms bowling game</em>
     </td>
@@ -32,8 +33,6 @@ Click the Images!
     </td>
   </tr>
 </table>
-
-
 
 <!--
 **nuckname/nuckname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
