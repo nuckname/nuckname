@@ -9,24 +9,24 @@ Click the Images!
 
 <table>
   <tr>
-    <td align="center" style="width: 33%; border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+    <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
       <b>Paint On Paint TD</b><br/><br/>
       <a href="https://store.steampowered.com/app/3773930/Paint_On_Paint_TD/" target="_blank">
-        <img width="320" height="188" alt="Paint On Paint TD" src="https://github.com/user-attachments/assets/84785308-9cfb-4b0d-a3a8-849b6a37bb5a" style="width: 100%; height: 188px; object-fit: cover; border-radius: 6px;" />
+        <img width="320" height="188" alt="Paint On Paint TD" src="https://github.com/user-attachments/assets/84785308-9cfb-4b0d-a3a8-849b6a37bb5a" style="height: 188px; object-fit: cover; border-radius: 6px;" />
       </a><br/><br/>
       <em>Solo-developed hand drawn tower defense bullet hell on Steam.</em>
     </td>
-    <td align="center" style="width: 33%; border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+    <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
       <b>Bowlder Dash</b><br/><br/>
       <a href="https://nuckname.itch.io/gas-man" target="_blank">
-        <img width="320" height="188" alt="Bowlder Dash Screenshot 2" src="https://github.com/user-attachments/assets/31de03de-7d90-43b2-b0fb-b85a6470e739" style="width: 100%; height: 188px; object-fit: cover; border-radius: 6px;" />
+        <img width="320" height="188" alt="Bowlder Dash Screenshot 2" src="https://github.com/user-attachments/assets/31de03de-7d90-43b2-b0fb-b85a6470e739" style="height: 188px; object-fit: cover; border-radius: 6px;" />
       </a><br/><br/>
       <em>A balatro inspired backrooms bowling game</em>
     </td>
-    <td align="center" style="width: 33%; border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+    <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
       <b>Beary Scary Museum Heist</b><br/><br/>
       <a href="https://nuckname.itch.io/beary-scary-museum-heist" target="_blank">
-        <img width="320" height="188" alt="Beary Scary Museum Heist" src="https://github.com/user-attachments/assets/416be660-6bff-4162-bfda-808ff46c2c8e" style="width: 100%; height: 188px; object-fit: cover; border-radius: 6px;" />
+        <img width="320" height="188" alt="Beary Scary Museum Heist" src="https://github.com/user-attachments/assets/416be660-6bff-4162-bfda-808ff46c2c8e" style="height: 188px; object-fit: cover; border-radius: 6px;" />
       </a><br/><br/>
       <em>Beary Scary Museum Heist a stealth game</em>
     </td>
