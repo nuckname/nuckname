@@ -22,7 +22,7 @@ Click the Images!
     <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
       <b>Bowlder Dash</b><br/><br/>
       <a href="https://nuckname.itch.io/gas-man" target="_blank">
-        <img width="320" height="188" alt="Bowlder Dash Screenshot 2" src="https://github.com/user-attachments/assets/bde467a2-1397-4bb8-92e9-4a06908a3312" style="height: 188px; object-fit: cover; border-radius: 6px;" />
+        <img width="320" height="188" alt="Bowlder Dash Screenshot 2" src="https://github.com/user-attachments/assets/2132fdf7-d913-4173-9e7a-7d5c211fb956" style="height: 188px; object-fit: cover; border-radius: 6px;" />
       </a><br/><br/>
       <em>A balatro inspired backrooms bowling game</em>
     </td>
