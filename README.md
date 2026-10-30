@@ -41,13 +41,19 @@ Click the Images!
     <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
       <b>Terrain Generation Tool</b><br/><br/>
       <a href="https://github.com/user-attachments/assets/1b4b6db0-6384-4df9-ba03-63aa1d234c7f" target="_blank">
-        <img width="320" height="188" alt="Terrain Generation Tool" src="https://github.com/user-attachments/assets/1b4b6db0-6384-4df9-ba03-63aa1d234c7f" style="height: 188px; object-fit: cover; border-radius: 6px;" />
+        <img width="320" height="188" alt="Terrain Generation Tool Editor Window" src="https://github.com/user-attachments/assets/1b4b6db0-6384-4df9-ba03-63aa1d234c7f" style="height: 188px; object-fit: cover; border-radius: 6px;" />
       </a><br/><br/>
-      <em>Custom Unity editor window for procedural terrain generation.</em>
+      <em>Custom Unity editor window interface.</em>
+    </td>
+    <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <b>Terrain Generation Output</b><br/><br/>
+      <a href="https://github.com/user-attachments/assets/dc824c91-d01f-4661-ae80-028b064b05af" target="_blank">
+        <img width="320" height="188" alt="Terrain Generation Tool Visuals" src="https://github.com/user-attachments/assets/dc824c91-d01f-4661-ae80-028b064b05af" style="height: 188px; object-fit: cover; border-radius: 6px;" />
+      </a><br/><br/>
+      <em>Procedural terrain generation visual output.</em>
     </td>
   </tr>
 </table>
-
 <!--
 **nuckname/nuckname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
