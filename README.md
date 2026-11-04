@@ -10,18 +10,6 @@ Published Projects: \
 \
 Click the Images!
 
-## Hi there 👋
-
-My name is Sam and im a Unity developer based in Melbourne, Australia \
-
-<a href="https://docs.google.com/document/d/1abqTLs62gxevvRAfUXgKu3mD_mGBRcCzOfS2YwU9RFQ/edit?usp=sharing" target="_blank">📄 View CV</a>
-
-<b>Technical Expertise:</b> Object-Oriented Design, Steamworks SDK, UI/UX Integration, Unity Editor Tool Development \
-
-Published Projects: \
-\
-Click the Images!
-
 <table>
   <tr>
     <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
